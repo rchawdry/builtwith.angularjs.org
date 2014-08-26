@@ -3580,7 +3580,24 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "AngularPlasmid",
+      "thumb": "angularplasmid/thumb.png",
+      "desc": "DNA plasmid visualization component developed using Google's AngularJS framework and SVG",
+      "url": "http://angularplasmid.vixis.com/",
+      "submitter": "rchawdry",
+      "submissionDate": "2014-08-26",
+      "tags": [
+      	"AngularJS",
+		"DNA",
+		"Plasmid",
+		"Drawing",
+		"SVG",
+		"Nucleotides",
+		"Restriction",
+		"Enzyme"     
+	  ]
     }
-
   ]
 }
